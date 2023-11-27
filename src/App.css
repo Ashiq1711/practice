@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+align-items: center;
+justify-content: center;
+min-height: 100vh;
+background: #4070f4;
+}
+.coloralert{
+    color: red;
+    opacity: 0.8;
+    font-size: 14px;
+}
+.customise{
+    /* width: 350px;
+    margin: 0 auto; */
+  
+}
+.container{
+position: relative;
+width: 350px;
+background-color: #fff;
+border-radius: 8px;
+padding: 25px;
+width: 100%;
+}
+button{
+   width: 100%;
+}
